@@ -1,0 +1,6 @@
+export { InfoImage } from "./InfoImage"
+export { InfoTitle } from "./InfoTitle"
+export { InfoDescription } from "./InfoDescription"
+export { HomeNavigator } from "../routes/HomeNavigator"
+export { TabNavigator } from "./TabNavigator"
+export { Settings } from "./Settings"
